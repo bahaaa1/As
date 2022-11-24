@@ -1,0 +1,57 @@
+body{
+
+    background-color: dodgerblue;
+
+}
+
+
+h2{
+    text-align: center;
+    letter-spacing: 4px;
+    color: dodgerblue;
+    text-shadow: 5px 3px 4px dodgerblue;
+}
+p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.fo hr{
+
+    border-top: 1.50px dotted dodgerblue ;
+    width: 400px;
+
+
+}
+
+label{
+    margin: 10px;
+    color: dodgerblue;
+}
+
+input{
+    margin-top: 20px;
+    border: 2px solid dodgerblue;
+    border-radius: 5px;
+    width: 400px;
+    height: 30px;
+    margin: 10px;
+}
+
+
+.fo{
+    background-color: white;
+    padding: 10px;
+    width: 430px;
+    border-radius: 5px;
+    margin: 62px 400px;
+}
+
+input[type="submit"]{
+    background-color:dodgerblue ;
+    color: white;
+    cursor: pointer;
+}
+
+
+
